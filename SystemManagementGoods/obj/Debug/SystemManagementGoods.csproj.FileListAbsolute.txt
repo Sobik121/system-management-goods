@@ -1,0 +1,116 @@
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\SystemManagementGoods.exe.config
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\SystemManagementGoods.exe
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\SystemManagementGoods.pdb
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.AssemblyReference.cache
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Properties.Resources.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.GenerateResource.cache
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.exe.licenses
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.CoreCompileInputs.cache
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.CopyComplete
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.exe
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.pdb
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.OrderConfirmation.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.ListOfUsers.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Registration.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Login.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.UserHome.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\Google.Protobuf.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\MySql.Data.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Buffers.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.IO.Pipelines.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Memory.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\ZstdSharp.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\Google.Protobuf.pdb
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\Google.Protobuf.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\MySql.Data.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Buffers.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.IO.Pipelines.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Memory.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.SuggestedBindingRedirects.cache
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.exe.config
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Orders.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\itextsharp.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\itextsharp.xml
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.AdminForm.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.ManagerForm.resources
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\sobip\OneDrive\Рабочий стол\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\SystemManagementGoods.exe.config
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\SystemManagementGoods.exe
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\SystemManagementGoods.pdb
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\BouncyCastle.Crypto.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\BouncyCastle.Cryptography.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\Google.Protobuf.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\itextsharp.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Hash.xxHash.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\MySql.Data.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Buffers.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.IO.Pipelines.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Memory.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Numerics.Vectors.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\ZstdSharp.dll
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\BouncyCastle.Cryptography.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\Google.Protobuf.pdb
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\Google.Protobuf.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\itextsharp.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\K4os.Hash.xxHash.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\MySql.Data.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Buffers.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.IO.Pipelines.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Memory.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Numerics.Vectors.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.AssemblyReference.cache
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.SuggestedBindingRedirects.cache
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.exe.config
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.AdminForm.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.ManagerForm.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Orders.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.OrderConfirmation.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.ListOfUsers.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Registration.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Login.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.Properties.Resources.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.UserHome.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.GenerateResource.cache
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.exe.licenses
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.CoreCompileInputs.cache
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.csproj.CopyComplete
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.exe
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.pdb
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.About.resources
+C:\універ\курсова\SystemManagementGoods\SystemManagementGoods\obj\Debug\SystemManagementGoods.PastOrders.resources
